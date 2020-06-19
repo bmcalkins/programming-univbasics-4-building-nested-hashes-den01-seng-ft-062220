@@ -1,5 +1,5 @@
 def base_hash
-hash = { railroads: => 6 } 
+hash = { railroads: => 1 } 
   
 end
     
