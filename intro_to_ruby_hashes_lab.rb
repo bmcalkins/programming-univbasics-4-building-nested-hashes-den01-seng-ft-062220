@@ -1,5 +1,5 @@
 def base_hash
-hash = { names: bradley 
+hash = { names: "bradley"} 
   
 end
     
