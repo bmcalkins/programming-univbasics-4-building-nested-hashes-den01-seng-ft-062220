@@ -1,5 +1,8 @@
 def base_hash
-   ["Jane Doe"] # => 01
+  monopoly =  {
+  :railroads=>
+  {
+    :pieces=>4
     
   
 
