@@ -1,5 +1,5 @@
 def base_hash
-  puts ["Jane Doe"] # => 01
+   ["Jane Doe"] # => 01
     
   
 
